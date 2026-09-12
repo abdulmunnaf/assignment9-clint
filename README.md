@@ -3,8 +3,6 @@
 **Live Website:** [DriveFleet Live Deployment](https://assignment-9-beta.vercel.app/)  
 **Backend API:** [DriveFleet Server API](https://assignment-server.vercel.app/)  
 **Client Repository:** [DriveFleet Client Repo](https://github.com/abdulmunnaf/assignment9-clint)  
-**Server Repository:** [DriveFleet Server Repo](https://github.com/azizul-dev/assignment-server)  
-
 ---
 
 ## 🚀 About DriveFleet
